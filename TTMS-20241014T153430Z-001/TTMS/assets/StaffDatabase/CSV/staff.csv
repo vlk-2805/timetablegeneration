@@ -1,0 +1,64 @@
+staff_id,staff_name,dept_name,max_hrs,allocated_hrs,first_hr,morning_hrs,evening_hrs
+CSE110,Dr. T. T. Mirnalinee,CSE,10,0,0,0,0
+CSE111,Dr. Chitra Babu,CSE,10,0,0,0,0
+CSE112,Dr. D. Venkatavara Prasad,CSE,10,0,0,0,0
+CSE113,Dr. A. Chamundeswari,CSE,10,0,0,0,0
+CSE114,Dr. R. Kanchana,CSE,10,0,0,0,0
+CSE115,Dr. B. Bharathi,CSE,10,0,0,0,0
+CSE116,Dr. J. Suresh,CSE,10,0,0,0,0
+CSE117,Dr. V. S. Felix Enigo,CSE,10,0,0,0,0
+CSE118,Dr. D. Thenmozhi,CSE,10,0,0,0,0
+CSE119,Dr. G. Raghuraman,CSE,10,0,0,0,0
+CSE120,Dr. J. Bhuvana,CSE,10,0,0,0,0
+CSE121,Dr. S. Kavitha,CSE,10,0,0,0,0
+CSE122,Dr. P. Mirunalini,CSE,10,0,0,0,0
+CSE123,Dr. S. Saraswathi,CSE,10,0,0,0,0
+CSE124,Dr. K. Vallidevi,CSE,10,0,0,0,0
+CSE125,Dr. B. Prabavathy,CSE,10,0,0,0,0
+CSE126,Dr. K. Madheswari,CSE,10,0,0,0,0
+CSE127,Dr. K. R. Sarath Chandran,CSE,10,0,0,0,0
+CSE128,Dr. N. Sujaudeen,CSE,10,0,0,0,0
+CSE129,Dr. M. Saritha,CSE,10,0,0,0,0
+CSE130,Dr. A. Beulah,CSE,10,0,0,0,0
+CSE131,Dr. H. Shahul Hamead,CSE,10,0,0,0,0
+CSE132,Dr. K. Lekshmi,CSE,10,0,0,0,0
+CSE133,Dr. R. Priyadarshini,CSE,10,0,0,0,0
+CSE134,Dr. S. V. Jansi Rani,CSE,10,0,0,0,0
+CSE135,Dr. Y. V. Lokeswari,CSE,10,0,0,0,0
+CSE136,Dr. V. Balasubramanian,CSE,10,0,0,0,0
+CSE137,Dr. S. Rajalakshmi,CSE,10,0,0,0,0
+CSE138,Ms. S. Lakshmi Priya,CSE,10,0,0,0,0
+CSE139,Dr. S. Angel Deborah,CSE,10,0,0,0,0
+CSE140,Dr. S. Manisha,CSE,10,0,0,0,0
+CSE141,Dr. S. M. Dhannya,CSE,10,0,0,0,0
+PHY301,Dr. S. Masilla Moses Kennedy,PHY,10,0,0,0,0
+PHY302,Dr. S. Singaravadivelu,PHY,10,0,0,0,0
+PHY303,Dr. P. Karuppasamy,PHY,10,0,0,0,0
+PHY304,Dr. G. Anandha Babu,PHY,10,0,0,0,0
+PHY305,Dr. Julie Charles,PHY,10,0,0,0,0
+PHY306,Dr. A. Chandrasekaran,PHY,10,0,0,0,0
+PHY307,Dr. K.Aravinth,PHY,10,0,0,0,0
+MATH201,Dr. B. Praba,MATH,10,0,0,0,0
+MATH202,Dr. R. Sundareswaran,MATH,10,0,0,0,0
+MATH203,Dr. M. Shanmugapriya,MATH,10,0,0,0,0
+MATH204,Dr. I. JayakaranAmalraj Isaac,MATH,10,0,0,0,0
+MATH205,Dr. S. Yugesh,MATH,10,0,0,0,0
+MATH206,Dr. S. Narasimman,MATH,10,0,0,0,0
+CHEM401,Dr. M.Siluvai Michael,CHEM,10,0,0,0,0
+CHEM402,Dr. A. M. Shanmugharaj,CHEM,10,0,0,0,0
+CHEM403,Dr.Arun Luiz T,CHEM,10,0,0,0,0
+CHEM404,Dr. S.I.Davis Presley,CHEM,10,0,0,0,0
+CHEM405,Dr. N. Priyadarshini,CHEM,10,0,0,0,0
+CHEM406,Dr. A. Murugesan,CHEM,10,0,0,0,0
+ENG501,Dr. Divya John,ENG,10,0,0,0,0
+ENG502,Dr. C. Vijaya Bhaskar,ENG,10,0,0,0,0
+ENG503,Dr. Martha Karunakar,ENG,10,0,0,0,0
+ENG504,Dr. D. Praveen Sam,ENG,10,0,0,0,0
+ENG505,Dr. Nimeshika Venkatesan,ENG,10,0,0,0,0
+ENG506,Dr. M. Shyamala Bharathy,ENG,10,0,0,0,0
+ECE601,Dr. S. Radha,ECE,10,0,0,0,0
+ECE602,Dr. P. Vijayalakshmi,ECE,10,0,0,0,0
+ECE603,Dr. Krishnasamy T. Selvan,ECE,10,0,0,0,0
+EEE701,Dr. V. Rajini,EEE,10,0,0,0,0
+EEE702,Dr. V. Kamara,EEE,10,0,0,0,0
+EEE703,Dr. Premanand Chandramani,EEE,10,0,0,0,0

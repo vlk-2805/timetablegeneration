@@ -1,0 +1,13 @@
+class_id,class_name,dept_name,max_hrs,allocated_hrs
+CSE1A,1st Year CSE A,CSE,35,0
+CSE1B,1st Year CSE B,CSE,35,0
+CSE1C,1st Year CSE C,CSE,35,0
+CSE2A,2nd Year CSE A,CSE,35,0
+CSE2B,2nd Year CSE B,CSE,35,0
+CSE2C,2nd Year CSE C,CSE,35,0
+CSE3A,3rd Year CSE A,CSE,35,0
+CSE3B,3rd Year CSE B,CSE,35,0
+CSE3C,3rd Year CSE C,CSE,35,0
+CSE4A,4th Year CSE A,CSE,35,0
+CSE4B,4th Year CSE B,CSE,35,0
+CSE4C,4th Year CSE C,CSE,35,0

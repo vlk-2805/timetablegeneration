@@ -1,0 +1,34 @@
+subject_id,subject_name,dept_name,credit,recommended_hrs,lab,sem
+UEN2176,Technical English,ENG,3,4,0,1
+UMA2176,Matrices and Calculus,MATH,4,5,0,1
+UPH2176,Engineering Physics,PHY,3,3,0,1
+UCY2176,Engineering Chemistry,CHEM,3,3,0,1
+UGE2176,Problem Solving and Programming in Python,CSE,3,3,0,1
+UGE2177,Engineering Graphics,CSE,3,5,0,1
+UGS2197,Physics and Chemistry Lab,CHEM,2,3,1,1
+UGE2197,Programming in Python Lab,CSE,2,3,1,1
+UMA2276,Complex Functions and Laplace Transforms,MATH,4,5,0,2
+UEE2276,Basic Electrical and Electronics Engineering,EEE,3,3,0,2
+UCS2201,Fundamentals and Practice of Software Development,CSE,2,3,0,2
+UCY2276,Environmental Science,CHEM,0,3,0,2
+UCS2202,Foundations of Data Science,CSE,3,3,0,2
+UHS2301,Humanities Elective,ENG,3,3,0,2
+UGE2297,Design Thinking and Engineering Practices Lab,CSE,2,3,1,2
+UCSL2201,Fundamentals and Practice of Software Development,CSE,3,3,1,2
+UMA2377,Discrete Mathematics,MATH,4,5,0,3
+UHS2376,Universal Human Values 2,PHY,3,4,0,3
+UCS2302,Digital Principles and System Design,ECE,3,3,0,3
+UCS2304,Data Structures,CSE,3,3,0,3
+UCS2303,Object Oriented Programming,CSE,3,3,0,3
+UCS2311,Digital Design Lab,ECE,2,3,1,3
+UCS2312,Data Structures Lab,CSE,2,3,1,3
+UCS2313,Object-Oriented Programming Lab,CSE,2,3,1,3
+UMA2476,Probability and Statistics,MATH,4,5,0,4
+AHS2476,Indian Constitution,PHY,0,3,0,4
+UCS2401,Computer Organization and Architecture,CSE,3,3,0,4
+UCS2402,Operating Systems,CSE,3,3,0,4
+UCS2403,Design and Analysis of Algorithms (Lecture),CSE,2,3,0,4
+UCS2404,Database Management Systems,CSE,3,3,0,4
+UCS2412,Operating Systems Lab,CSE,2,3,1,4
+UCS2411,Database Lab,CSE,2,3,1,4
+UCSL2403,Design and Analysis of Algorithms (Lab),CSE,2,3,1,4

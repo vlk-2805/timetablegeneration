@@ -1,0 +1,19 @@
+room_id,room_name,dept_name,max_hrs,allocated_hrs,lab
+LH45,Class_1A,CSE,35,0,0
+LH46,Class_1B,CSE,35,0,0
+LH47,Class_1C,CSE,35,0,0
+LH35,Class_2A,CSE,35,0,0
+LH36,Class_2B,CSE,35,0,0
+LH37,Class_2C,CSE,35,0,0
+LH25,Class_3A,CSE,35,0,0
+LH26,Class_3B,CSE,35,0,0
+LH27,Class_3C,CSE,35,0,0
+LH15,Class_4A,CSE,35,0,0
+LH16,Class_4B,CSE,35,0,0
+LH17,Class_4C,CSE,35,0,0
+JTL,Java Technology Lab,CSE,35,0,1
+PGL1,PG Lab 1,CSE,35,0,1
+PGL2,PG Lab 2,CSE,35,0,1
+SDL,Software Development Lab,CSE,35,0,1
+HPL,High Performance Lab,CSE,35,0,1
+IPL,Image Processing Lab,CSE,35,0,1
